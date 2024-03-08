@@ -10,12 +10,10 @@
 
 ###
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh2100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatesh2100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+![Venky's Stats](https://github-readme-stats.vercel.app/api?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Venky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh2100&theme=vue-dark&hide_border=true)
+![Venky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+ <img height="140" width="660px" src="https://media1.tenor.com/m/AEnNUTVK_O0AAAAC/bocchi-loop-bocchi-the-rock.gif"  />
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -90,9 +88,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venkatesh2100&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
