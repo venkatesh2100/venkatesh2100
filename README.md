@@ -13,7 +13,6 @@
 ![Venky's Stats](https://github-readme-stats.vercel.app/api?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Venky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh2100&theme=vue-dark&hide_border=true)
 ![Venky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
- <img height="140" width="660px" src="https://media1.tenor.com/m/AEnNUTVK_O0AAAAC/bocchi-loop-bocchi-the-rock.gif"  />
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
