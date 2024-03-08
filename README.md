@@ -11,7 +11,7 @@
 ###
 # 📊 GitHub Stats:
 ![Venky's Stats](https://github-readme-stats.vercel.app/api?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  <img height="195" width="300px" align="right"  src="https://media1.tenor.com/m/p8gfSVD9BowAAAAC/zoro-one-piece.gif"  />
+  <img height="195" width="350px" align="right"  src="https://media1.tenor.com/m/p8gfSVD9BowAAAAC/zoro-one-piece.gif"  />
 ![Venky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh2100&theme=vue-dark&hide_border=true)
 ![Venky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 # 💻 Tech Stack:
