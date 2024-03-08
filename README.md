@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Venkatesh and I'm a Software Devloper, from India</h2>
+<h2 align="left">Hi 👋! My name is Venkatesh and I'm a Software Developer, from India</h2>
 
 
 ## 🌐 Socials:
