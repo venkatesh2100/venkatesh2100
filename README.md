@@ -112,7 +112,7 @@
 <!-- <div align="center">
   <img height="300" src="https://media1.tenor.com/m/m1yjU7NaDm0AAAAd/anime.gif"  />
 </div> -->
-[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venkatesh2100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venkatesh2100&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
