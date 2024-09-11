@@ -88,6 +88,7 @@
   </a>
   <a href="https://www.instagram.com/venky_official_insta/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
@@ -115,10 +116,10 @@
   <img height="300" src="https://media1.tenor.com/m/m1yjU7NaDm0AAAAd/anime.gif"  />
 </div>
 ###
-<!-- 
+<!--
 [![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venkatesh2100&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-###
+<!-- ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
+### -->
