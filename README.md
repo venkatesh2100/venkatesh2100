@@ -7,7 +7,9 @@
 ###
 
 <p align="left">I'm 19 years old Full-Stack developer from India.<br>🥀 Learning Java & DSA<br><br>with Javascript, Typescript, React and 69 others.<br><br>🔭 SpaceX FanBoi, die for space😼<br><br>🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.<br><br>I do fullstack and a bit of everything ❤️<br><br>All About living life at its best.</p>
+
 ###
+
 # 📊 GitHub Stats:
 ![Venky's Stats](https://github-readme-stats.vercel.app/api?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <img height="195" width="350px" align="right"  src="https://media1.tenor.com/m/p8gfSVD9BowAAAAC/zoro-one-piece.gif"  />
@@ -109,10 +111,13 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/venkatesh2100)
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img height="300" src="https://media1.tenor.com/m/m1yjU7NaDm0AAAAd/anime.gif"  />
-</div> -->
-<!-- [![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venkatesh2100&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
+###
+<!-- 
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venkatesh2100&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
