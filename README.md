@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm 19 years old Full-Stack developer from India.<br>🥀 Learning Java & DSA<br><br>with Javascript, Typescript, React and 69 others.<br><br>🔭 SpaceX FanBoi, die for space😼<br><br>🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.<br><br>I do fullstack and a bit of everything ❤️<br><br>All About living life at its best.</p>
+<p align="left">I'm 19 years old Full-Stack developer from India.<br>🥀 Learning web3 & DSA<br><br>with Javascript, Typescript, React and 69 others.<br><br>🔭 SpaceX FanBoi, die for space😼<br><br>🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.<br><br>I do fullstack and a bit of everything ❤️<br><br>All About living life at its best.</p>
 
 ###
 
