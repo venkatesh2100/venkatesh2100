@@ -101,9 +101,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   <a/>
 </div>
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=venkatesh2100&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=venkatesh2100&theme=dracula&no-frame=true&no-bg=false&margin-w=4) 
+    -->
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
