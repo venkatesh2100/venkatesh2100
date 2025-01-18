@@ -68,20 +68,22 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@codewithvenky" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/venky_official_insta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  /></a>
+  <a href="https://leetcode.com/venkatesh2100/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="duckyshine004" height="48" width="48" /></a> 
+<a href="https://codeforces.com/profile/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ton-618" height="48" width="48" /></a>
+<a href="https://www.hackerrank.com/profile/venkatesh2100" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="duckyshine04" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/venkatesh2100/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="gallon-zhou-a3739b278" height="48" width="48" /></a>
+<!--   <a href="https://www.instagram.com/venky_official_insta/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
+  </a> -->
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  /> -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   <a href="mailto:thisisvenky.ynm@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-<a href="https://www.linkedin.com/in/venkatesh-s-5b0852251/">
+<!-- <a href="https://www.linkedin.com/in/venkatesh-s-5b0852251/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <a/>
+  <a/> -->
 </div>
 <!--
 ## 🏆 GitHub Trophies
