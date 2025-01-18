@@ -15,6 +15,7 @@
 ![Venky's Stats](https://github-readme-stats.vercel.app/api?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <img height="195" width="350px" align="right"  src="https://media1.tenor.com/m/p8gfSVD9BowAAAAC/zoro-one-piece.gif"  />
 <!--![Venky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh2100&theme=vue-dark&hide_border=true)-->
+<a href="https://leetcode.com/venkatesh2100/" target="_blank"><img src="https://leetcard.jacoblin.cool/venkatesh2100?theme=dark&ext=contest&border_color=404040" height="250"  /></a>
 ![Venky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 # 💻 Tech Stack:
 <div align="left">
