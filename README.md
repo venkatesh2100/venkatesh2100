@@ -88,22 +88,22 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@codewithvenky" target="_blank">
+  <a href="https://www.youtube.com/@codewithvenky">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/venky_official_insta/" target="_blank">
+  <a href="https://www.instagram.com/venky_ins/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a>
+  <a href="mailto:thisisvenky.ynm@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
   </a>
-  <a>
+  <a href="mailto:thisisvenky.ynm@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:thisisvenky.ynm@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/venkatesh-s-5b0852251/">
+  <a href="https://www.linkedin.com/in/venkatesh2100/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   <a/>
 </div>
