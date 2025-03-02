@@ -87,26 +87,34 @@
 
 ###
 
-<div align="left">
+<div>
   <a href="https://www.youtube.com/@codewithvenky">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+      width="47" height="35" alt="YouTube logo" />
   </a>
   <a href="https://www.instagram.com/venky_ins/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="47" height="35" alt="Instagram logo" />
   </a>
   <a href="mailto:thisisvenky.ynm@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
-  </a>
-  <a href="mailto:thisisvenky.ynm@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:thisisvenky.ynm@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="47" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/venkatesh2100/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <a/>
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="47" height="35" alt="LinkedIn logo" />
+  </a>
+    <a href="https://twitter.com/venky_officials">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+      width="47" height="35" alt="X (Twitter) logo" />
+  </a>
 </div>
+
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venkatesh2100&theme=dracula&no-frame=true&no-bg=false&margin-w=4) -->
