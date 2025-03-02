@@ -9,13 +9,18 @@
 <p align="left">I'm 19 years old Full-Stack developer from India.<br>🥀 Learning Java & DSA<br><br>with Javascript, Typescript, React and 69 others.<br><br>🔭 SpaceX FanBoi, die for space😼<br><br>🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.<br><br>I do fullstack and a bit of everything ❤️<br><br>All About living life at its best.</p>
 
 ###
+
 # 📊 GitHub Stats:
+
 ![Venky's Stats](https://github-readme-stats.vercel.app/api?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  <img height="195" width="350px" align="right"  src="https://media1.tenor.com/m/p8gfSVD9BowAAAAC/zoro-one-piece.gif"  />
+<img height="195" width="350px" align="right"  src="https://media1.tenor.com/m/p8gfSVD9BowAAAAC/zoro-one-piece.gif"  />
+
 <!-- ![Venky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh2100&theme=vue-dark&hide_border=true) -->
 <!-- ![Venky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 <!-- <a href="https://leetcode.com/venkatesh2100/" target="_blank"><img src="https://leetcard.jacoblin.cool/venkatesh2100?theme=dark&ext=contest&border_color=404040" height="220" /></a> -->
+
 # 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -89,12 +94,16 @@
   <a href="https://www.instagram.com/venky_official_insta/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
   <a href="mailto:thisisvenky.ynm@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-<a href="https://www.linkedin.com/in/venkatesh-s-5b0852251/">
+  <a href="https://www.linkedin.com/in/venkatesh-s-5b0852251/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   <a/>
 </div>
@@ -103,13 +112,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=venkatesh2100&theme=dracula&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=venkatesh2100&icon=1&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/venkatesh2100)
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/venkatesh2100)
+
 ###
 
 <div align="center">
@@ -117,5 +130,6 @@
 </div>
 
 ###
+
 <!--
 [![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venkatesh2100&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
