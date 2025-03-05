@@ -21,7 +21,26 @@
 
 # 💻 Tech Stack:
 
-<div align="left">
+<table>
+<tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Framework's</strong></td>
+</tr>
+<tr>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,java,c,python,lua&theme=dark"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind&theme=dark"></td>
+</tr>
+<tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td><strong>Tools & Platforms</strong></td>
+</tr>
+<tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,prisma,redis,firebase&theme=dark"></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,vim,arch,postman,bash&theme=dark"></td>
+</tr>
+</table>
+
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -37,25 +56,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /> -->
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" height="30" alt="android logo"  />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" height="30" alt="android logo"  /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  /> -->
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" height="30" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alr="arch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alr="arch" /> -->
   <!-- <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" alt="prisma"/> -->
 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  /> -->
-  <img width="12" />
-  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="30" alt="androidstudio logo"  />
+  <!-- <img width="12" />
+  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="30" alt="androidstudio logo"  /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  /> -->
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -63,15 +82,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  /> -->
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /> -->
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -79,39 +98,52 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-</div>
+</div> -->
 
 ###
 
 ## 🌐 Socials:
 
 ###
-
-<div>
+<div style="display: flex; gap: 5px; align-items: center;">
   <a href="https://www.youtube.com/@codewithvenky">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-      width="47" height="35" alt="YouTube logo" />
+      width="50"
+      height="55"
+      alt="YouTube logo" />
   </a>
-  <a href="https://www.instagram.com/venky_ins/">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-      width="47" height="35" alt="Instagram logo" />
-  </a>
+
   <a href="mailto:thisisvenky.ynm@gmail.com">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="47" height="35" alt="Gmail logo" />
+      width="50"
+      height="55"
+      alt="Gmail logo" />
   </a>
+
+  <a href="https://www.instagram.com/venky_ins/">
+    <img
+      src="https://skillicons.dev/icons?i=instagram&theme=dark"
+      width="50"
+      height="55"
+      alt="Instagram logo" />
+  </a>
+
   <a href="https://www.linkedin.com/in/venkatesh2100/">
     <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="47" height="35" alt="LinkedIn logo" />
+      src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+      width="50"
+      height="55"
+      alt="LinkedIn logo" />
   </a>
-    <a href="https://twitter.com/venky_officials">
+
+  <a href="https://twitter.com/venky_officials">
     <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-      width="47" height="35" alt="X (Twitter) logo" />
+      src="https://skillicons.dev/icons?i=twitter&theme=dark"
+      width="50"
+      height="55"
+      alt="Twitter logo" />
   </a>
 </div>
 
