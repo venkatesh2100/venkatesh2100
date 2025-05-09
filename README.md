@@ -1,5 +1,5 @@
 # Hi, I'm Venky
-Hey there, I’m venky! (Coming from ⚛️) I’m a developer and cyber security enthusiast. I like computers *(surprised?) and anything related to cyber security, especially information gathering and reverse engineering.
+Hey there, I’m venky! (Coming from ⚛️) I’m a developer and cyber security enthusiast. I like computers *(surprised?)* and anything related to cyber security, especially information gathering and reverse engineering.
 
 
 Learning web dev and low level stuff :3, dabbled in jailbreaking for a while!
