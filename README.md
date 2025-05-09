@@ -1,5 +1,7 @@
 # Hi, I'm Venky
-I'm Venky, an  year old Singaporean Y2 student in NYP. 
+Hey there, I’m venky! (Coming from ⚛️) I’m a developer and cyber security enthusiast. I like computers *(surprised?) and anything related to cyber security, especially information gathering and reverse engineering.
+
+
 Learning web dev and low level stuff :3, dabbled in jailbreaking for a while!
 
 I'm fluent in:
@@ -30,6 +32,6 @@ In the future, I want to learn:
 * Making my own OS
 
 # Reach out to me
-Check out my website [here](https://hrtowii.dev)
+Check out my website [here](https://venkatesh2100.vercel.app/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/413331641109446656)](https://discord.com/users/413331641109446656)
