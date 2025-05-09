@@ -34,4 +34,3 @@ In the future, I want to learn:
 # Reach out to me
 Check out my website [here](https://venkatesh2100.vercel.app/)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/413331641109446656)](https://discord.com/users/413331641109446656)
