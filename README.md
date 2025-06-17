@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="">
   <a href="https://venky.blog">Hi, I'm Venky</a>
 </h1>
 
