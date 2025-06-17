@@ -1,4 +1,8 @@
-# Hi, I'm Venky
+
+<h1 align="center">
+  <a href="https://venky.blog">Hi, I'm Venky</a>
+</h1>
+
 Hey there, I’m venky! (Coming from ⚛️) I’m a developer and cyber security enthusiast. I like computers *(surprised?)* and anything related to cyber security, especially information gathering and reverse engineering.
 
 
